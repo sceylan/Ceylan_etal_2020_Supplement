@@ -7,6 +7,7 @@ Developed for InSight mission to Mars.
 
 Author: Savas Ceylan - ETH Zurich
         Martin van Driel - ETH Zurich
+	Simon C. Staehler - ETH Zurich
 """
 
 from __future__ import print_function
